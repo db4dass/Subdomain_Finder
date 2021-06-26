@@ -1,0 +1,8 @@
+arrow==1.1.1
+colorama==0.4.4
+contextlib2==0.6.0.post1
+dnspython==2.1.0
+python-dateutil==2.8.1
+python-time==0.3.0
+six==1.16.0
+thread6==0.2.0
