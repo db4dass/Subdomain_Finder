@@ -115,6 +115,7 @@ class Buscador(object):
                     print(f'{red}[x] Subdominio no encontrado: {subdominio}.{self.dominio}')
         for subdominio in self.encontrados:
             self.file.write(subdominio + '\n')
+        self.file.close()
 
 if __name__ == '__main__':
     init()
