@@ -1,7 +1,5 @@
 #!/usr/bin/env python
-#-*- coding:utf-8 -*-
-#Author: 'Javier'
-#GitHub: 'Javier'
+
 
 import argparse
 import sys, os, time
@@ -21,8 +19,6 @@ def Banner():
   / __/_ __/ /  ___/ /__  __ _  ___ _(_)__    / __(_)__  ___/ /__ ____
  _\ \/ // / _ \/ _  / _ \/  ' \/ _ `/ / _ \  / _// / _ \/ _  / -_) __/
 /___/\_,_/_.__/\_,_/\___/_/_/_/\_,_/_/_//_/ /_/ /_/_//_/\_,_/\__/_/                                                         
-                            Author: 'f4stB4nd1t'
-                            GitHub: 'f4stB4nd1t'
     """
     return banner
 
